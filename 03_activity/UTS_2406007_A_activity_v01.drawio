@@ -1,0 +1,79 @@
+<mxfile host="Electron">
+  <diagram name="Page-1" id="FmiP-MybbBMrMnl4HRuh">
+    <mxGraphModel dx="1212" dy="1434" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="light-dark(#FFFFFF,#121212)" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="tZoKT43_C-1zCCL-WngS-1" parent="1" style="swimlane;whiteSpace=wrap;html=1;startSize=23;" value="Pengguna" vertex="1">
+          <mxGeometry height="1040" width="360" x="40" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="tZoKT43_C-1zCCL-WngS-5" edge="1" parent="tZoKT43_C-1zCCL-WngS-1" source="tZoKT43_C-1zCCL-WngS-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;labelPadding=0 4;endArrow=block;endFill=1;" target="tZoKT43_C-1zCCL-WngS-4" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tZoKT43_C-1zCCL-WngS-3" parent="tZoKT43_C-1zCCL-WngS-1" style="shape=ellipse;html=1;fillColor=strokeColor;strokeWidth=2;verticalLabelPosition=bottom;verticalAlignment=top;perimeter=ellipsePerimeter;labelPerimeter=1;" value="" vertex="1">
+          <mxGeometry height="40" width="40" x="160" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="tZoKT43_C-1zCCL-WngS-4" parent="tZoKT43_C-1zCCL-WngS-1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="Melihat daftar menu" vertex="1">
+          <mxGeometry height="60" width="150" x="105" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="tZoKT43_C-1zCCL-WngS-11" edge="1" parent="tZoKT43_C-1zCCL-WngS-1" source="tZoKT43_C-1zCCL-WngS-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;labelPadding=0 4;endArrow=block;endFill=1;" target="tZoKT43_C-1zCCL-WngS-10" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tZoKT43_C-1zCCL-WngS-8" parent="tZoKT43_C-1zCCL-WngS-1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="memesan&lt;div&gt;makanan&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="150" x="105" y="600" as="geometry" />
+        </mxCell>
+        <mxCell id="tZoKT43_C-1zCCL-WngS-10" parent="tZoKT43_C-1zCCL-WngS-1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="membayar&lt;div&gt;pesanan&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="150" x="105" y="740" as="geometry" />
+        </mxCell>
+        <mxCell id="tZoKT43_C-1zCCL-WngS-15" edge="1" parent="tZoKT43_C-1zCCL-WngS-1" source="tZoKT43_C-1zCCL-WngS-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;labelPadding=0 4;endArrow=block;endFill=1;" target="tZoKT43_C-1zCCL-WngS-14" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tZoKT43_C-1zCCL-WngS-12" parent="tZoKT43_C-1zCCL-WngS-1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="mencatat&lt;div&gt;status pesanan&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="150" x="480" y="840" as="geometry" />
+        </mxCell>
+        <mxCell id="tZoKT43_C-1zCCL-WngS-14" parent="tZoKT43_C-1zCCL-WngS-1" style="html=1;shape=mxgraph.sysml.actFinal;strokeWidth=2;verticalLabelPosition=bottom;verticalAlignment=top;perimeter=ellipsePerimeter;labelPerimeter=1;" value="" vertex="1">
+          <mxGeometry height="40" width="40" x="535" y="960" as="geometry" />
+        </mxCell>
+        <mxCell id="tZoKT43_C-1zCCL-WngS-13" edge="1" parent="tZoKT43_C-1zCCL-WngS-1" source="tZoKT43_C-1zCCL-WngS-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;endArrow=block;endFill=1;" target="tZoKT43_C-1zCCL-WngS-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tZoKT43_C-1zCCL-WngS-2" parent="1" style="swimlane;whiteSpace=wrap;html=1;" value="Sistem" vertex="1">
+          <mxGeometry height="1040" width="360" x="400" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="tZoKT43_C-1zCCL-WngS-21" edge="1" parent="tZoKT43_C-1zCCL-WngS-2" source="tZoKT43_C-1zCCL-WngS-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;labelPadding=0 4;endArrow=block;endFill=1;" target="tZoKT43_C-1zCCL-WngS-16" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tZoKT43_C-1zCCL-WngS-6" parent="tZoKT43_C-1zCCL-WngS-2" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="memeriksa&lt;div&gt;ketersediaan menu&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="150" x="105" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="tZoKT43_C-1zCCL-WngS-16" parent="tZoKT43_C-1zCCL-WngS-2" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;" value="apakah tersedia?" vertex="1">
+          <mxGeometry height="80" width="80" x="140" y="380" as="geometry" />
+        </mxCell>
+        <mxCell id="tZoKT43_C-1zCCL-WngS-7" edge="1" parent="1" source="tZoKT43_C-1zCCL-WngS-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;endArrow=block;endFill=1;" target="tZoKT43_C-1zCCL-WngS-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tZoKT43_C-1zCCL-WngS-17" edge="1" parent="1" source="tZoKT43_C-1zCCL-WngS-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;endArrow=block;endFill=1;" target="tZoKT43_C-1zCCL-WngS-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="580" y="550" />
+              <mxPoint x="220" y="550" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tZoKT43_C-1zCCL-WngS-18" connectable="0" parent="tZoKT43_C-1zCCL-WngS-17" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];inheritText=1;defaultLabelBackgroundColor=page;labelPadding=0 4;" value="[tersedia]" vertex="1">
+          <mxGeometry relative="1" x="-0.028" y="-5" as="geometry">
+            <mxPoint x="-55" y="5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tZoKT43_C-1zCCL-WngS-19" edge="1" parent="1" source="tZoKT43_C-1zCCL-WngS-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;endArrow=block;endFill=1;" target="tZoKT43_C-1zCCL-WngS-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tZoKT43_C-1zCCL-WngS-20" connectable="0" parent="tZoKT43_C-1zCCL-WngS-19" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];inheritText=1;defaultLabelBackgroundColor=page;labelPadding=0 4;" value="[tidak tersedia]" vertex="1">
+          <mxGeometry relative="1" x="-0.1208" y="-1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
